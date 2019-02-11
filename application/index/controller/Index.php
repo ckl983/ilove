@@ -5,6 +5,6 @@ class Index
 {
     public function index()
     {
-        echo "<h1>我家的小宝贝in_0</h1>";
+        echo "<h1>这个是我的项目</h1>";
     }
 }
